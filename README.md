@@ -48,6 +48,3 @@ I will continue updating this repository as I progress through the course and bu
 ---
 
 *This repository documents my learning journey as I transition into Computer Engineering and continue developing my programming skills.*
-
-
-This repository documents my learning journey as I transition into Computer Engineering and continue developing my programming skills.
